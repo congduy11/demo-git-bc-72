@@ -16,7 +16,9 @@ git push -u
 
 -- Tạo Brand ( nhánh )
 
-git checkout -b (tên nhánh )
+git checkout -b (tên nhánh ) 
+
+-- Chuyển Nhánh 
 
 git checkout    (chuyển nhánh )
 
