@@ -9,4 +9,8 @@ git push -u orgin master
 -- Đẩy lần hai trở đi
 git add -A
 git commit -m "create home page html "
-git push -u 
+git push 
+
+--- Gôm code từ 2 nhiều nhánh ( đứng tại nhánh main )
+
+git merge login 
