@@ -5,7 +5,7 @@ git remote add origin [đường dẫn trên github]
 -- Đẩy lần đầu ( trên github chưa có nhánh master)
 git add -A
 git commit -m "create home page html "
-git push -u orgin master 
+git push -u orgin ( tên nhánh hiện tại )
 
 
 -- Đẩy lần hai trở đi
@@ -21,6 +21,8 @@ git checkout -b (tên nhánh )
 git checkout    (chuyển nhánh )
 
 git branch -D   ( xóa nhánh )
+
+
 
 
 
