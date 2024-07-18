@@ -15,13 +15,12 @@ git push
 
 
 -- Tạo Brand ( nhánh )
-
 git checkout -b (tên nhánh ) 
+
 
 -- Chuyển Nhánh 
 
 git checkout    (chuyển nhánh )
-
 git branch -D   ( xóa nhánh )
 
 
